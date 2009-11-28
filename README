@@ -1,6 +1,6 @@
 **What is this?
 
-This repo contains all the prerequisite packages to run an installation of ImageMagick and, ultimately, RMagick. This specific installation will successfully install RMagick on a Mac 64 bit Snow Leopard.
+This repo contains all the prerequisite packages to run an installation of ImageMagick and, ultimately, RMagick. This specific installation will successfully install RMagick on a Mac 64 bit Snow Leopard. It will also work on a 62 bit machine, Leopard or Snow Leopard.
 
 All the scripts out there require that you download the packages from their sources, but usually the links are outdated. Another problem is that the packages themselves might be outdated. I am trying to exclude these obstacles by including the most up-to-date and uncompressed packages right here. If you find that a package needs to be updated, please fork and included it the project so others can benefit from your update.
 
