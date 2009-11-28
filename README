@@ -15,7 +15,7 @@ sudo gem uninstall rmagick
 
 2) Copy the content of this repo into your /usr/local/src folder.
 
-3) Run this command: 
+3) Run these commands (you might want to run as sudo): 
 
 chmod +x rmagick_by_solomon.sh
 ./rmagick_by_solomon.sh
