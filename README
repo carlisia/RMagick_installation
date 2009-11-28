@@ -10,16 +10,19 @@ There might be many reasons why you would need this. As one example, to develop 
 
 **To run the  script in one shot:
 
-You might run the script at once, or line-by-line in your terminal.
+1) In case you have previously installed rmagick, you will need to run this:
+sudo gem uninstall rmagick
 
-1) Copy the content of this repo into your /usr/local/src folder.
+2) Copy the content of this repo into your /usr/local/src folder.
 
-2) Run this command: 
+3) Run this command: 
 
 chmod +x rmagick_by_solomon.sh
 ./rmagick_by_solomon.sh
 
-3) That's it!
+4) That's it!
+
+You might alternatively run the script at once, or line-by-line in your terminal.
 
 **Tip: One way to see if ImageMagick is working successfully and supporting jpg conversions:
 
