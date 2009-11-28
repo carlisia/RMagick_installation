@@ -1,0 +1,1 @@
+-dev md5k -include ./obj/page -obj ./obj/gdevmd2k.o

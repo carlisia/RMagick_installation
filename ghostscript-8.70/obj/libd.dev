@@ -1,0 +1,6 @@
+-obj ./obj/gdevabuf.o ./obj/gdevdbit.o ./obj/gdevddrw.o ./obj/gdevdflt.o
+./obj/gdevdgbr.o ./obj/gdevnfwd.o ./obj/gdevmem.o ./obj/gdevplnx.o
+./obj/gdevm1.o ./obj/gdevm2.o ./obj/gdevm4.o ./obj/gdevm8.o
+./obj/gdevm16.o ./obj/gdevm24.o ./obj/gdevm32.o ./obj/gdevmpla.o
+./obj/gdevm40.o ./obj/gdevm48.o ./obj/gdevm56.o ./obj/gdevm64.o
+./obj/gdevdsha.o

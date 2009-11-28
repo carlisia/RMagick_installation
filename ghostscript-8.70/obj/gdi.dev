@@ -1,0 +1,1 @@
+-dev gdi -include ./obj/page -obj ./obj/gdevgdi.o ./obj/gdevpcl.o

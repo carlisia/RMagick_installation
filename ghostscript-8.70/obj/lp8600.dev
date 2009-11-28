@@ -1,0 +1,1 @@
+-dev lp8600 -include ./obj/page -obj ./obj/gdevescv.o

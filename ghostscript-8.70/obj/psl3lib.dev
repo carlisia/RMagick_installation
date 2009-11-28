@@ -1,0 +1,3 @@
+-obj ./obj/gsclipsr.o ./obj/gscdevn.o ./obj/gxdevndi.o
+-include ./obj/imasklib ./obj/shadelib
+-include ./obj/gxfapiu

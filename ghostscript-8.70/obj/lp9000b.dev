@@ -1,0 +1,1 @@
+-dev lp9000b -include ./obj/page -obj ./obj/gdevescv.o

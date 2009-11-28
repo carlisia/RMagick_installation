@@ -1,0 +1,1 @@
+-obj ./obj/gstype42.o ./obj/gxchrout.o ./obj/ttcalc.o ./obj/ttfinp.o ./obj/ttfmain.o ./obj/ttfmemd.o ./obj/ttinterp.o ./obj/ttload.o ./obj/ttobjs.o ./obj/gxttfb.o ./obj/gzspotan.o

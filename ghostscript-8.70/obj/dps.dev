@@ -1,0 +1,4 @@
+-obj -include ./obj/dpslib ./obj/psl2
+-obj ./obj/zdps.o ./obj/zcontext.o
+-oper zcontext1 zcontext2 zdps
+-ps gs_dps

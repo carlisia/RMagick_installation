@@ -1,0 +1,20 @@
+.\" $Id: gsnd.1 9910 2009-07-31 17:56:00Z giles $
+.TH GSND 1 "31 July 2009" 8.70 Ghostscript \" -*- nroff -*-
+.SH NAME
+gsnd \- Run ghostscript (PostScript and PDF engine) without display
+.SH SYNOPSIS
+\fBgsnd\fR [ \fIoptions\fR ] [ \fIfiles\fR ] ...
+.SH DESCRIPTION
+This script simply invokes
+.BR gs (1)
+with the
+.B -NODISPLAY
+flag, followed by any other arguments from the command-line.
+.SH SEE ALSO
+gs(1)
+.SH VERSION
+This document was last revised for Ghostscript version 8.70.
+.SH AUTHOR
+Artifex Software, Inc. are the
+primary maintainers of Ghostscript.
+This manpage by George Ferguson.

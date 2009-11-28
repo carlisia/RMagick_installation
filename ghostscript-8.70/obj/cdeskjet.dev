@@ -1,0 +1,1 @@
+-dev cdeskjet -include ./obj/page -obj ./obj/gdevcdj.o ./obj/gdevpcl.o

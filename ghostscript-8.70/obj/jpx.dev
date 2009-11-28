@@ -1,0 +1,4 @@
+-obj ./obj/zfjpx.o
+-include ./obj/sjpx
+-include ./obj/jasper
+-oper zfjpx

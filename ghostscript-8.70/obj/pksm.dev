@@ -1,0 +1,1 @@
+-dev2 pksm -include ./obj/page -obj ./obj/gdevpbm.o ./obj/gdevppla.o ./obj/gdevmpla.o

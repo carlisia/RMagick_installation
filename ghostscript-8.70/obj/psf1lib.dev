@@ -1,0 +1,2 @@
+-obj ./obj/gstype1.o
+./obj/gxtype1.o ./obj/gxhintn.o ./obj/gxhintn1.o ./obj/gscrypt1.o ./obj/gxchrout.o

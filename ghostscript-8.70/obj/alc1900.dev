@@ -1,0 +1,1 @@
+-dev alc1900 -include ./obj/page -obj ./obj/gdevescv.o

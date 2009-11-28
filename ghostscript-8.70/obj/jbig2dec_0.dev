@@ -1,0 +1,2 @@
+-obj ./obj/jbig2.o ./obj/jbig2_arith.o ./obj/jbig2_arith_iaid.o ./obj/jbig2_arith_int.o ./obj/jbig2_generic.o ./obj/jbig2_refinement.o ./obj/jbig2_huffman.o ./obj/jbig2_image.o ./obj/jbig2_mmr.o
+./obj/jbig2_page.o ./obj/jbig2_segment.o ./obj/jbig2_symbol_dict.o ./obj/jbig2_text.o ./obj/jbig2_metadata.o

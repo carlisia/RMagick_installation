@@ -1,0 +1,1 @@
+-dev appledmp -include ./obj/page -obj ./obj/gdevadmp.o

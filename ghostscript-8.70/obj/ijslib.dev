@@ -1,0 +1,1 @@
+-obj ./obj/ijs.o ./obj/ijs_server.o ./obj/ijs_client.o ./obj/ijs_exec_unix.o

@@ -1,0 +1,1 @@
+-dev2 ljet4d -include ./obj/page -obj ./obj/gdevdjet.o ./obj/gdevdljm.o ./obj/gdevpcl.o

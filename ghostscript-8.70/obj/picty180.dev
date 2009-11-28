@@ -1,0 +1,1 @@
+-dev picty180 -include ./obj/page -obj ./obj/gdevcdj.o ./obj/gdevpcl.o

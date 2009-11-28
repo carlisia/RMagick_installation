@@ -1,0 +1,2 @@
+-obj ./obj/gsicc.o
+-include ./obj/icclib.dev

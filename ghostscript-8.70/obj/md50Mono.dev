@@ -1,0 +1,1 @@
+-dev md50Mono -include ./obj/page -obj ./obj/gdevalps.o

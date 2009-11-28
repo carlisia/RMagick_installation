@@ -1,0 +1,3 @@
+-obj ./obj/iscanbin.o ./obj/zbseq.o
+-oper zbseq_l2 -replace ./obj/nobtoken
+-ps gs_btokn

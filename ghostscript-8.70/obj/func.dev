@@ -1,0 +1,4 @@
+-obj ./obj/zfunc.o ./obj/zfunc0.o
+-oper zfunc
+-functiontype 0
+-include ./obj/funclib

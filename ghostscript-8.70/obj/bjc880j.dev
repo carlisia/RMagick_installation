@@ -1,0 +1,1 @@
+-dev bjc880j -include ./obj/page -obj ./obj/gdevl4r.o ./obj/gdevlips.o ./obj/gdevlprn.o

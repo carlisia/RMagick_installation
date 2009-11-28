@@ -1,0 +1,2 @@
+-dev2 tiff12nc -include ./obj/page -obj ./obj/gdevtfnx.o
+-include ./obj/tiffs

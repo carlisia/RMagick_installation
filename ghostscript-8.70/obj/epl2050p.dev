@@ -1,0 +1,1 @@
+-dev epl2050p -include ./obj/page -obj ./obj/gdevescv.o

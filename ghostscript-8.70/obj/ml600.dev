@@ -1,0 +1,1 @@
+-dev ml600 -include ./obj/page -obj ./obj/gdevml6.o ./obj/gdevprn.o

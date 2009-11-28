@@ -1,0 +1,5 @@
+-obj ./obj/zfapi.o
+-oper zfapi
+-ps gs_fntem gs_fapi
+-include ./obj/fapiu
+-include ./obj/fapif

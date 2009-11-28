@@ -1,0 +1,1 @@
+-dev pj -include ./obj/page -obj ./obj/gdevcdj.o ./obj/gdevpcl.o

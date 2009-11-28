@@ -1,0 +1,1 @@
+-dev alc8500 -include ./obj/page -obj ./obj/gdevescv.o

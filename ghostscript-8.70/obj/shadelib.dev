@@ -1,0 +1,3 @@
+-obj ./obj/gscolor3.o ./obj/gsfunc3.o ./obj/gsptype2.o ./obj/gsshade.o
+-obj ./obj/gxshade.o ./obj/gxshade1.o ./obj/gxshade4.o ./obj/gxshade6.o
+-include ./obj/funclib ./obj/patlib

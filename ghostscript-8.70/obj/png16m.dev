@@ -1,0 +1,2 @@
+-dev2 png16m -include ./obj/page -obj ./obj/gdevpng.o ./obj/gdevpccm.o
+-include ./obj/libpng

@@ -1,0 +1,1 @@
+-dev lp9300 -include ./obj/page -obj ./obj/gdevescv.o

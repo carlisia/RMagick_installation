@@ -1,0 +1,3 @@
+-obj ./obj/zchar2.o ./obj/zfont2.o
+-oper zchar2 zfont2
+-include ./obj/type1 ./obj/psf2lib

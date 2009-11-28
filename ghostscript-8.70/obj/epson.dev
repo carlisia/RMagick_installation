@@ -1,0 +1,1 @@
+-dev epson -include ./obj/page -obj ./obj/gdevepsn.o

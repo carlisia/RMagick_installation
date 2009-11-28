@@ -1,0 +1,2 @@
+-obj ./obj/gp_getnv.o ./obj/gp_upapr.o ./obj/gp_unix.o ./obj/gp_unifs.o ./obj/gp_unifn.o ./obj/gp_stdia.o ./obj/gp_unix_cache.o -include ./obj/nosync
+-include ./obj/smd5

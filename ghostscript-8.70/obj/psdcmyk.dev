@@ -1,0 +1,1 @@
+-dev psdcmyk -obj ./obj/gdevpsd.o ./obj/gdevdevn.o ./obj/gsequivc.o

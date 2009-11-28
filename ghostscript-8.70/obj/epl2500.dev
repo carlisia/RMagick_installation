@@ -1,0 +1,1 @@
+-dev epl2500 -include ./obj/page -obj ./obj/gdevescv.o

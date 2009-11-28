@@ -1,0 +1,2 @@
+-dev2 svgwrite -obj ./obj/gdevsvg.o
+-include ./obj/vector

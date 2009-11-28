@@ -1,0 +1,5 @@
+-obj ./obj/zchar1.o ./obj/zcharout.o
+-obj ./obj/zfont1.o ./obj/zmisc1.o
+-include ./obj/seexec
+-oper zchar1 zfont1 zmisc1
+-ps gs_type1

@@ -1,0 +1,3 @@
+-obj ./obj/zfunc4.o
+-functiontype 4
+-include ./obj/func ./obj/func4lib

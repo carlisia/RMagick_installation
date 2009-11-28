@@ -1,0 +1,1 @@
+-dev lex5700 -include ./obj/page -obj ./obj/gdevlx7.o

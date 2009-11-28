@@ -1,0 +1,3 @@
+-obj ./obj/zfmd5.o
+-include ./obj/smd5
+-oper zfmd5

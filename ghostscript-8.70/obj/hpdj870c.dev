@@ -1,0 +1,1 @@
+-dev hpdj870c -include ./obj/page -obj ./obj/gdeveprn.o ./obj/pagecount.o ./obj/mediasize.o ./obj/eprnparm.o ./obj/eprnrend.o ./obj/eprnfs.o ./obj/gdevpcl3.o ./obj/pclcap.o ./obj/pclgen.o ./obj/pclcomp.o ./obj/pclsize.o

@@ -1,0 +1,2 @@
+-obj ./obj/gsfunc4.o ./obj/spprint.o
+-include ./obj/funclib

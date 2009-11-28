@@ -1,0 +1,1 @@
+-dev lp8000 -include ./obj/page -obj ./obj/gdevlp8k.o

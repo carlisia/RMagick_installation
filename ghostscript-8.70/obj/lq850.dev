@@ -1,0 +1,1 @@
+-dev lq850 -include ./obj/page -obj ./obj/gdevdm24.o

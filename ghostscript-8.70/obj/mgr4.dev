@@ -1,0 +1,1 @@
+-dev mgr4 -include ./obj/page -obj ./obj/gdevmgr.o ./obj/gdevpccm.o

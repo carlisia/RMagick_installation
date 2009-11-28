@@ -1,0 +1,1 @@
+-dev2 atx38 -include ./obj/page -obj ./obj/gdevatx.o

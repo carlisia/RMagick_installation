@@ -1,0 +1,3 @@
+-obj ./obj/zfarc4.o
+-include ./obj/sarc4
+-oper zfarc4

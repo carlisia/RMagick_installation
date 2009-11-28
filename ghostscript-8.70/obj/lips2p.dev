@@ -1,0 +1,1 @@
+-dev lips2p -include ./obj/page -obj ./obj/gdevl4r.o ./obj/gdevlips.o ./obj/gdevlprn.o

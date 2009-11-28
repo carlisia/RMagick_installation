@@ -1,0 +1,2 @@
+-obj ./obj/adler32.o ./obj/deflate.o ./obj/compress.o ./obj/trees.o ./obj/crc32.o
+-include ./obj/zlibc.dev

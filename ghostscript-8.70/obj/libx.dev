@@ -1,0 +1,13 @@
+-obj ./obj/gxacpath.o ./obj/gxbcache.o ./obj/gxccache.o
+./obj/gxccman.o ./obj/gxchar.o ./obj/gxcht.o
+./obj/gxclip.o ./obj/gxcmap.o ./obj/gxcpath.o
+./obj/gxdcconv.o ./obj/gxdcolor.o ./obj/gxhldevc.o
+./obj/gxfill.o ./obj/gxfdrop.o ./obj/gxht.o ./obj/gxhtbit.o
+./obj/gxwts.o ./obj/gxidata.o ./obj/gxifast.o ./obj/gximage.o
+./obj/gximage1.o ./obj/gximono.o ./obj/gxipixel.o ./obj/gximask.o
+./obj/gxi12bit.o ./obj/gxi16bit.o ./obj/gxiscale.o ./obj/gxpaint.o ./obj/gxpath.o ./obj/gxpath2.o
+./obj/gxpcopy.o ./obj/gxpdash.o ./obj/gxpflat.o
+./obj/gxsample.o ./obj/gxstroke.o ./obj/gxsync.o ./obj/vdtrace.o
+-imageclass 0_interpolate
+-imageclass 1_simple 3_mono
+-imagetype 1 mask1

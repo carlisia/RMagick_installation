@@ -1,0 +1,1 @@
+-dev m8510 -include ./obj/page -obj ./obj/gdev8510.o

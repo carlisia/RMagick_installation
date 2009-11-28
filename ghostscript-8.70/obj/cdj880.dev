@@ -1,0 +1,1 @@
+-dev2 cdj880 -include ./obj/page -obj ./obj/gdevcd8.o ./obj/gdevpcl.o

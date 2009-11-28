@@ -1,0 +1,1 @@
+-dev mj700v2c -include ./obj/page -obj ./obj/gdevmjc.o ./obj/gdevpcl.o

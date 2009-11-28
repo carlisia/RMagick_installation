@@ -1,0 +1,11 @@
+-obj ./obj/gdevpdt.o ./obj/gdevpdtb.o
+./obj/gdevpdtc.o ./obj/gdevpdtd.o ./obj/gdevpdte.o
+./obj/gdevpdtf.o
+./obj/gdevpdti.o
+
+
+./obj/gdevpdts.o ./obj/gdevpdtt.o
+./obj/gdevpdtv.o ./obj/gdevpdtw.o
+
+./obj/gsfont0c.o
+-include ./obj/fcopy ./obj/psf

@@ -1,0 +1,9 @@
+-obj ./obj/gxclist.o ./obj/gxclbits.o ./obj/gxclpage.o
+-obj ./obj/gxclrast.o ./obj/gxclread.o ./obj/gxclrect.o
+-obj ./obj/gxclutil.o ./obj/gsparams.o ./obj/gxshade6.o
+-obj ./obj/gsroptab.o ./obj/stream.o
+-obj ./obj/gxclimag.o ./obj/gxclpath.o ./obj/gxdhtserial.o
+-obj ./obj/gxclthrd.o ./obj/gsmchunk.o
+-include ./obj/clfile
+-include ./obj/clmemory ./obj/posync.dev
+-include ./obj/cfe ./obj/cfd ./obj/rle ./obj/rld ./obj/psl2cs

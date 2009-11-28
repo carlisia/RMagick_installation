@@ -1,0 +1,7 @@
+-obj ./obj/gdevpsdi.o ./obj/gdevpsdp.o
+-obj ./obj/gdevpsds.o ./obj/gdevpsdu.o
+-obj ./obj/scfparam.o ./obj/sdcparam.o ./obj/sdeparam.o
+-obj ./obj/spprint.o ./obj/spsdf.o ./obj/sstring.o
+-obj ./obj/gsparamx.o
+-include ./obj/vector.dev ./obj/pngp.dev ./obj/seexec.dev
+-include ./obj/sdcte.dev ./obj/slzwe.dev ./obj/szlibe.dev

@@ -1,0 +1,2 @@
+-dev2 jpeg -include ./obj/page -obj ./obj/gdevjpeg.o
+-include ./obj/sdcte

@@ -1,0 +1,33 @@
+-obj ./obj/imain.o ./obj/imainarg.o ./obj/gsargs.o ./obj/idisp.o
+-obj ./obj/gconfig.o ./obj/gscdefs.o ./obj/iconfig.o
+-obj ./obj/iapi.o ./obj/icontext.o ./obj/idebug.o
+-obj ./obj/idict.o ./obj/idparam.o ./obj/idstack.o
+-obj ./obj/iinit.o ./obj/interp.o
+-obj ./obj/iparam.o ./obj/ireclaim.o ./obj/iplugin.o
+-obj ./obj/iscan.o ./obj/iscannum.o ./obj/istack.o
+-obj ./obj/iutil.o ./obj/sa85d.o ./obj/scantab.o
+-obj ./obj/sfilter1.o ./obj/sstring.o ./obj/stream.o
+-obj ./obj/zarith.o ./obj/zarray.o ./obj/zcontrol.o
+-obj ./obj/zdict.o ./obj/zfile.o ./obj/zfile1.o ./obj/zfileio.o
+-obj ./obj/zfilter.o ./obj/zfproc.o ./obj/zgeneric.o
+-obj ./obj/ziodev.o ./obj/ziodevsc.o ./obj/zmath.o ./obj/zalg.o
+-obj ./obj/zmisc.o ./obj/zpacked.o ./obj/zrelbit.o
+-obj ./obj/zstack.o ./obj/zstring.o ./obj/zsysvm.o
+-obj ./obj/ztoken.o ./obj/ztype.o ./obj/zvmem.o
+-obj ./obj/zbfont.o ./obj/zchar.o ./obj/zcolor.o
+-obj ./obj/zdevice.o ./obj/zfont.o ./obj/zfontenum.o ./obj/zgstate.o
+-obj ./obj/zdfilter.o ./obj/zht.o ./obj/zimage.o ./obj/zmatrix.o
+-obj ./obj/zpaint.o ./obj/zpath.o
+-obj ./obj/zncdummy.o
+-oper zarith zarray zcontrol1 zcontrol2 zcontrol3
+-oper zdict1 zdict2 zfile zfile1 zfileio1 zfileio2
+-oper zfilter zfproc zgeneric ziodev zmath zalg
+-oper zmisc zpacked zrelbit zstack zstring zsysvm
+-oper ztoken ztype zvmem zbfont zchar_a zchar_b zcolor zcolor_ext
+-oper zdevice zfont zfontenum zgstate1 zgstate2 zgstate3
+-oper zdfilter zht zimage zmatrix zmatrix2
+-oper zpaint zpath pantone
+-iodev stdin stdout stderr lineedit statementedit
+-include ./obj/isupport ./obj/nobtoken ./obj/nousparm
+-include ./obj/rld ./obj/rle ./obj/sfile ./obj/dscparse
+-replace ./obj/gsiodevs

@@ -1,0 +1,3 @@
+-obj ./obj/scantab.o ./obj/scfparam.o ./obj/sfilter2.o ./obj/zfdecode.o
+-include ./obj/cfd ./obj/lzwd ./obj/pdiff ./obj/pngp ./obj/rld
+-oper zfdecode

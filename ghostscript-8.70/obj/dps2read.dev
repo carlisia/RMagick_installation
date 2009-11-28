@@ -1,0 +1,4 @@
+-obj ./obj/ibnum.o ./obj/zcharx.o
+-include ./obj/dps2int
+-oper ireclaim_l2 zcharx
+-ps gs_dps2

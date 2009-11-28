@@ -1,0 +1,7 @@
+-obj -include ./obj/dpsand2
+-include ./obj/cidfont ./obj/cie ./obj/cmapread ./obj/compfont
+-include ./obj/dct ./obj/filter ./obj/iodevice
+-include ./obj/pagedev ./obj/pattern ./obj/psl1 ./obj/psl2lib ./obj/psl2read
+-include ./obj/sepr ./obj/type32 ./obj/type42
+-include ./obj/fimscale
+-emulator PostScript PostScriptLevel2

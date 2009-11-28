@@ -1,0 +1,1 @@
+-dev mgrmono -include ./obj/page -obj ./obj/gdevmgr.o ./obj/gdevpccm.o

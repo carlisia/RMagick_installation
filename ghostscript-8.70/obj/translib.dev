@@ -1,0 +1,4 @@
+-obj ./obj/gstrans.o ./obj/gximag3x.o ./obj/gxblend.o ./obj/gxblend1.o ./obj/gdevp14.o ./obj/gdevdevn.o ./obj/gdevdcrd.o ./obj/gscolorbuffer.o
+-imagetype 3x
+-include ./obj/cspixlib ./obj/bboxutil
+-include ./obj/cielib.dev

@@ -1,0 +1,3 @@
+-obj ./obj/gdevtfax.o
+-include ./obj/cfe ./obj/lzwe ./obj/rle
+-include ./obj/fax ./obj/tiffs

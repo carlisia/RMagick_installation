@@ -1,0 +1,34 @@
+**What is this?
+
+This repo contains all the prerequisite packages to run an installation of ImageMagick and, ultimately, RMagick. This specific installation will successfully install RMagick on a Mac 64 bit Snow Leopard.
+
+All the scripts out there require that you download the packages from their sources, but usually the links are outdated. Another problem is that the packages themselves might be outdated. I am trying to exclude these obstacles by including the most up-to-date and uncompressed packages right here. If you find that a package needs to be updated, please fork and included it the project so others can benefit from your update.
+
+**Why do I need it?
+
+There might be many reasons why you would need this. As one example, to develop Rails applications that use photo handling (specially if using the Paperclip gem) and also captcha.
+
+**To run the  script in one shot:
+
+You might run the script at once, or line-by-line in your terminal.
+
+1) Copy the content of this repo into your /usr/local/src folder.
+
+2) Run this command: 
+
+chmod +x rmagick_by_solomon.sh
+./rmagick_by_solomon.sh
+
+3) That's it!
+
+**Tip: One way to see if ImageMagick is working successfully and supporting jpg conversions:
+
+Drop an image file (.gif, .png, etc) into any folder.
+Go to that folder on your terminal window
+Type: convert myimagfile.png mynewimagefile.jpg
+
+If nothing happens, it's a good sign: do a "ls" and see if mynewimagefile.jpg is listed in the directory.
+
+
+**The installation script is based on a blog post by Solomon White, found here: 
+http://onrails.org/articles/2009/09/04/rmagick-from-source-on-snow-leopard

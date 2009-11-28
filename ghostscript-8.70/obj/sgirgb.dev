@@ -1,0 +1,1 @@
+-dev sgirgb -include ./obj/page -obj ./obj/gdevsgi.o

@@ -1,0 +1,1 @@
+-dev lj3100sw -include ./obj/page -obj ./obj/gdevl31s.o ./obj/gdevmeds.o

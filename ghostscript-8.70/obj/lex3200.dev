@@ -1,0 +1,1 @@
+-dev lex3200 -include ./obj/page -obj ./obj/gdevlx7.o

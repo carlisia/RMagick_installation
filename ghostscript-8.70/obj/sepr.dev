@@ -1,0 +1,4 @@
+-obj ./obj/zcssepr.o ./obj/zfsample.o
+-oper zcssepr_l2
+-oper zfsample
+-include ./obj/func4 ./obj/seprlib

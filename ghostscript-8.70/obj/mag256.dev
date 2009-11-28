@@ -1,0 +1,1 @@
+-dev mag256 -obj ./obj/gdevmag.o ./obj/gdevpccm.o ./obj/gdevprn.o

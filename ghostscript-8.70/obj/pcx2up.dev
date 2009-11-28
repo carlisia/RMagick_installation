@@ -1,0 +1,2 @@
+-dev pcx2up -include ./obj/page -obj ./obj/gdevp2up.o
+-include ./obj/pcx256

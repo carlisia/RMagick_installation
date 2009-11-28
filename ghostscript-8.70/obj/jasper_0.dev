@@ -1,0 +1,3 @@
+-obj ./obj/jas_cm.o ./obj/jas_debug.o ./obj/jas_getopt.o ./obj/jas_image.o ./obj/jas_icc.o ./obj/jas_iccdata.o ./obj/jas_init.o ./obj/jas_malloc.o ./obj/jas_seq.o ./obj/jas_stream.o ./obj/jas_string.o ./obj/jas_tvp.o ./obj/jas_version.o
+./obj/jpc_bs.o ./obj/jpc_cs.o ./obj/jpc_dec.o ./obj/jpc_enc.o ./obj/jpc_math.o ./obj/jpc_mct.o ./obj/jpc_mqcod.o ./obj/jpc_mqdec.o ./obj/jpc_mqenc.o ./obj/jpc_qmfb.o ./obj/jpc_tagtree.o ./obj/jpc_t1cod.o ./obj/jpc_t1dec.o ./obj/jpc_t1enc.o ./obj/jpc_tsfb.o ./obj/jpc_t2cod.o ./obj/jpc_t2dec.o ./obj/jpc_t2enc.o ./obj/jpc_util.o
+./obj/jp2_cod.o ./obj/jp2_dec.o ./obj/jp2_enc.o

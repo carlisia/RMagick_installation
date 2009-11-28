@@ -1,0 +1,2 @@
+-obj ./obj/gdevfax.o
+-include ./obj/cfe

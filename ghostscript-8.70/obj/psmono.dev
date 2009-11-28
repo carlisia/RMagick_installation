@@ -1,0 +1,1 @@
+-dev2 psmono -include ./obj/page -obj ./obj/gdevpsim.o ./obj/gdevpsu.o

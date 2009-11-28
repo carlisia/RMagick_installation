@@ -1,0 +1,4 @@
+-obj ./obj/iutil2.o ./obj/zmisc2.o
+-include ./obj/dps2int ./obj/usparam
+-oper zmisc2
+-ps gs_lev2 gs_res

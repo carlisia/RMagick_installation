@@ -1,0 +1,1 @@
+-dev imagen -include ./obj/page -obj ./obj/gdevimgn.o

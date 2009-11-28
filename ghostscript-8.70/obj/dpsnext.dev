@@ -1,0 +1,4 @@
+-obj -include ./obj/dps ./obj/dpnxtlib
+-obj ./obj/zdpnext.o
+-oper zdpnext
+-ps gs_dpnxt

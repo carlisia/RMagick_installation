@@ -1,0 +1,1 @@
+-dev lxm5700m -include ./obj/page -obj ./obj/gdevlxm.o

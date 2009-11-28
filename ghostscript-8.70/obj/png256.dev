@@ -1,0 +1,2 @@
+-dev2 png256 -include ./obj/page -obj ./obj/gdevpng.o ./obj/gdevpccm.o
+-include ./obj/libpng

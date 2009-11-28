@@ -1,0 +1,1 @@
+-dev cljet5c -include ./obj/page -obj ./obj/gdevcljc.o ./obj/gdevpcl.o

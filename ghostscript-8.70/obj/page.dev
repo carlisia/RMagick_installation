@@ -1,0 +1,2 @@
+-obj ./obj/gdevprn.o
+-include ./obj/clist

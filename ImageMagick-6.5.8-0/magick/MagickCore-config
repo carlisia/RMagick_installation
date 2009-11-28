@@ -1,0 +1,69 @@
+#!/bin/sh
+#
+# Configure options script for re-calling MagickCore compilation options
+# required to use the MagickCore library.
+#
+
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include/ImageMagick
+
+usage="\
+Usage: MagickCore-config [--cflags] [--cppflags] [--exec-prefix] [--ldflags] [--libs] [--prefix] [--version]"
+
+if test $# -eq 0; then
+      echo "${usage}" 1>&2
+      echo "Example: gcc \`MagickCore-config --cflags --cppflags\` -o core core.c \`Magick-config --ldflags --libs\`" 1>&2
+      exit 1
+fi
+
+while test $# -gt 0; do
+  case "$1" in
+    -*=*) optarg=`echo "$1" | sed 's/[-_a-zA-Z0-9]*=//'` ;;
+    *) optarg= ;;
+  esac
+  case $1 in
+    --prefix=*)
+      prefix=$optarg
+      ;;
+    --prefix)
+      echo $prefix
+      ;;
+    --exec-prefix=*)
+      exec_prefix=$optarg
+      ;;
+    --exec-prefix)
+      echo $exec_prefix
+      ;;
+    --version)
+      echo '6.5.8 Q8 '
+      ;;
+    --cflags)
+      echo "-I${includedir} "
+      ;;
+    --cxxflags)
+      echo '-g -O2 -Wall -W -D_THREAD_SAFE'
+      ;;
+    --cppflags)
+      echo '-I/usr/local/include/ImageMagick'
+      ;;
+    --ldflags)
+      echo '-L/usr/local/lib -L/usr/local/lib -L/usr/X11/lib -R/usr/X11/lib'
+      ;;
+    --libs)
+      echo "-L${libdir} -lMagickCore -llcms -ltiff -lfreetype -ljpeg -lXext -lSM -lICE -lX11 -lXt -lbz2 -lz -lm -lpthread "
+      ;;
+    --coder-path)
+      echo "/usr/local/lib/ImageMagick-6.5.8/modules-Q8/coders"
+      ;;
+    --filter-path)
+      echo "/usr/local/lib/ImageMagick-6.5.8/modules-Q8/filters"
+      ;;
+    *)
+      echo "${usage}" 1>&2
+      exit 1
+      ;;
+  esac
+  shift
+done

@@ -1,0 +1,8 @@
+-obj -include ./obj/psbase ./obj/dps2lib
+-include ./obj/dps2read ./obj/pdffonts ./obj/psl3
+-include ./obj/psl2lib ./obj/pdfread ./obj/cff
+-include ./obj/fmd5 ./obj/farc4 ./obj/faes.dev
+-include ./obj/ttfont ./obj/type2
+-include ./obj/icc
+-functiontype 4
+-emulator PDF

@@ -1,0 +1,3 @@
+-obj ./obj/zfimscale.o
+-include ./obj/simscale
+-oper zfimscale

@@ -1,0 +1,19 @@
+-obj ./obj/gpmisc.o ./obj/stream.o ./obj/strmio.o
+./obj/gsalloc.o ./obj/gsalpha.o
+./obj/gsbitcom.o ./obj/gsbitops.o ./obj/gsbittab.o
+./obj/gscedata.o ./obj/gscencs.o ./obj/gschar.o ./obj/gscolor.o
+./obj/gscoord.o ./obj/gscparam.o ./obj/gscspace.o ./obj/gscicach.o ./obj/gsovrc.o ./obj/gxoprect.o
+./obj/gsdevice.o ./obj/gsdevmem.o ./obj/gsdparam.o ./obj/gsdfilt.o
+./obj/gsfname.o ./obj/gsfont.o ./obj/gsgdata.o ./obj/gsgcache.o
+./obj/gsht.o ./obj/gshtscr.o ./obj/gswts.o
+./obj/gsimage.o ./obj/gsimpath.o ./obj/gsinit.o
+./obj/gsiodev.o ./obj/gsistate.o ./obj/gsline.o
+./obj/gsmalloc.o ./obj/gsmatrix.o
+./obj/gsmemory.o ./obj/gsmemret.o ./obj/gsmisc.o ./obj/gsnotify.o ./obj/gslibctx.o
+./obj/gspaint.o ./obj/gsparam.o ./obj/gspath.o
+./obj/gsserial.o ./obj/gsstate.o ./obj/gstext.o ./obj/gsutil.o
+-comp overprint
+-comp pdf14trans
+-init gshtscr
+-include ./obj/gsiodevs
+-include ./obj/translib

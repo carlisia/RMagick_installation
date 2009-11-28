@@ -1,0 +1,1 @@
+-dev hl1250 -include ./obj/page -obj ./obj/gdevhl12.o ./obj/gdevdljm.o ./obj/gdevpcl.o

@@ -1,0 +1,2 @@
+-dev2 pswrite -obj ./obj/gdevps.o ./obj/gdevpsu.o ./obj/scantab.o ./obj/sfilter2.o
+-include ./obj/psdf

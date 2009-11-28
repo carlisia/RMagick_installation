@@ -1,0 +1,1 @@
+-dev paintjet -include ./obj/page -obj ./obj/gdevpjet.o ./obj/gdevpcl.o

@@ -1,0 +1,2 @@
+-obj ./obj/ialloc.o ./obj/igc.o ./obj/igcref.o ./obj/igcstr.o
+-obj ./obj/ilocate.o ./obj/iname.o ./obj/isave.o

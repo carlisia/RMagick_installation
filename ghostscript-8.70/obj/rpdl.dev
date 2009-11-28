@@ -1,0 +1,1 @@
+-dev rpdl -include ./obj/page -obj ./obj/gdevrpdl.o ./obj/gdevlprn.o

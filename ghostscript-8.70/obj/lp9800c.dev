@@ -1,0 +1,1 @@
+-dev lp9800c -include ./obj/page -obj ./obj/gdevescv.o

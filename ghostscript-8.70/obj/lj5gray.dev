@@ -1,0 +1,1 @@
+-dev lj5gray -include ./obj/page -obj ./obj/gdevlj56.o ./obj/gdevpxut.o ./obj/gdevpcl.o

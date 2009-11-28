@@ -1,0 +1,2 @@
+-obj ./obj/gschar0.o ./obj/gsfont0.o
+-include ./obj/cmaplib

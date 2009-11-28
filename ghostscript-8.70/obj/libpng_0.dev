@@ -1,0 +1,5 @@
+-obj ./obj/png.o ./obj/pngmem.o ./obj/pngerror.o ./obj/pngset.o
+./obj/pngtrans.o ./obj/pngwrite.o ./obj/pngwtran.o ./obj/pngwutil.o ./obj/pngwio.o
+./obj/pngread.o ./obj/pngrutil.o ./obj/pngrtran.o ./obj/pngrio.o ./obj/pngget.o
+./obj/pngwio.o
+-include ./obj/zlibe.dev ./obj/crc32.dev

@@ -1,0 +1,1 @@
+-dev2 ljetplus -include ./obj/page -obj ./obj/gdevdjet.o ./obj/gdevdljm.o ./obj/gdevpcl.o

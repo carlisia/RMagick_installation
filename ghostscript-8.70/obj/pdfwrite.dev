@@ -1,0 +1,17 @@
+-dev2 pdfwrite -obj ./obj/gdevpdf.o ./obj/gdevpdfb.o
+./obj/gdevpdfc.o ./obj/gdevpdfd.o ./obj/gdevpdfe.o
+./obj/gdevpdfg.o
+./obj/gdevpdfi.o ./obj/gdevpdfj.o ./obj/gdevpdfk.o
+./obj/gdevpdfm.o
+./obj/gdevpdfo.o ./obj/gdevpdfp.o ./obj/gdevpdft.o
+./obj/gdevpdfr.o
+./obj/gdevpdfu.o ./obj/gdevpdfv.o
+./obj/ConvertUTF.o
+./obj/gsflip.o
+./obj/scantab.o ./obj/sfilter2.o
+-ps gs_pdfwr
+-include ./obj/cmyklib ./obj/cfe ./obj/lzwe
+-include ./obj/rle ./obj/sdcte ./obj/sdeparam
+-include ./obj/smd5 ./obj/szlibe ./obj/sarc4.dev
+-include ./obj/psdf
+-include ./obj/pdtext

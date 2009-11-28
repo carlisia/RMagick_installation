@@ -1,0 +1,5 @@
+-obj -include ./obj/frsd ./obj/func4 ./obj/fzlib
+-include ./obj/transpar
+-ps pdf_ops gs_l2img
+-ps pdf_rbld
+-ps pdf_base pdf_draw pdf_font pdf_main pdf_sec

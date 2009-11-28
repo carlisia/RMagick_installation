@@ -1,0 +1,1 @@
+-dev lbp310 -include ./obj/page -obj ./obj/gdevlbp3.o

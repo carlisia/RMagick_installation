@@ -1,0 +1,1 @@
+-dev omni -include ./obj/page -obj ./obj/gomni.o

@@ -1,0 +1,3 @@
+-obj -include ./obj/sdctd ./obj/sddparam
+-obj ./obj/zfdctd.o
+-oper zfdctd

@@ -1,0 +1,1 @@
+-dev lx5000 -include ./obj/page -obj ./obj/gdevlx50.o

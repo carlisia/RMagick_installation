@@ -1,0 +1,1 @@
+-dev mgrgray2 -include ./obj/page -obj ./obj/gdevmgr.o ./obj/gdevpccm.o
